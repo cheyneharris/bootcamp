@@ -118,6 +118,9 @@ body{
   font-size: 58px;
 }
 
+.Totals {
+ text-align: center; 
+}
 
 @media screen and (max-width: 420px){
   .card-grp{
